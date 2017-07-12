@@ -1,0 +1,19 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+<<<<<<< HEAD
+/phpMyAdmin
+
+Homestead.json
+Homestead.yaml
+npm-debug.log
+=======
+Homestead.json
+Homestead.yaml
+npm-debug.log
+
+>>>>>>> 4af799f34fbd65acddea738fd622600521522811
